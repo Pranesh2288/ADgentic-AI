@@ -19,7 +19,7 @@ ADgentic AI operationalizes an end-to-end workflow that transforms a marketing b
 ### 📦 Dependencies
 * Python 3.10+
 * LlamaIndex
-* ChromaDB
+* PineconeDB
 * OpenAI API (GPT-4, DALL-E 3, Vision)
 
 ### 🛠️ Installing
